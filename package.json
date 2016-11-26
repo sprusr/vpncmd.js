@@ -1,0 +1,29 @@
+{
+  "name": "vpncmd",
+  "version": "0.0.1",
+  "description": "Node.js wrapper for SoftEther's VPNCMD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprusr/vpncmd.js.git"
+  },
+  "keywords": [
+    "vpn",
+    "softether",
+    "vpncmd"
+  ],
+  "author": "Scott Street <scott@spru.sr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sprusr/vpncmd.js/issues"
+  },
+  "homepage": "https://github.com/sprusr/vpncmd.js#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "camelcase": "^4.0.0",
+    "csvtojson": "^1.0.3"
+  }
+}
